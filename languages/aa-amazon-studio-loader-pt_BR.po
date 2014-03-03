@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Amazon's Publisher Studio Loader by 2Aces\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-02 22:30-0300\n"
+"PO-Revision-Date: 2014-03-02 22:36-0300\n"
+"Last-Translator: Celso Bessa - 2Aces <celso.bessa@2aces.com.br>\n"
+"Language-Team: 2Aces <contato@2aces.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../aa-amazon-studio-loader.php:52
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não tem permissões suficientes para acessar esta página"
+
+#: ../aa-amazon-studio-loader.php:65
+msgid "Options for Amazon's Publisher Studio Loader by "
+msgstr "Opção para o Amazon's Publisher Studio Loader da "
+
+#: ../aa-amazon-studio-loader.php:66
+msgid "Instructions:"
+msgstr "Instruções"
+
+#: ../aa-amazon-studio-loader.php:69
+msgid "Go to your Amazon Associates profile and select the Publisher Studio tab ( <a href=\"http://j.mp/2APublisherStudio\" rel=\"nofollow\">click here</a> )"
+msgstr "Vá até seu perfil na Amazon Associates e selecione a aba Publisher Studio ( <a href=\"http://j.mp/2APublisherStudio\" rel=\"nofollow\">clique aqui</a> )"
+
+#: ../aa-amazon-studio-loader.php:72
+msgid "Create a new instance and click on \"Get Code\""
+msgstr "Crie uma nova inst^ncia (new instance) e clique em \"Get Code\""
+
+#: ../aa-amazon-studio-loader.php:76
+msgid "Search the code and copy your Publisher tag.<br/>This is the alphanumeric code between the double quotes after the <code>codeamznpubstudioTag</code>.<br/>( i.e cybl0a-20 on <code>window.amznpubstudioTag = \"cybl0a-20\"</code>) and paste in the first field below"
+msgstr "Procure no código e copie a sua Publisher tag.<br/>É um código alfanumérico entre aspas e após onde está escrito <code>codeamznpubstudioTag</code>.<br/>( i.e cybl0a-20 em <code>window.amznpubstudioTag = \"cybl0a-20\"</code>) e cole no campo abaixo"
+
+#: ../aa-amazon-studio-loader.php:80
+msgid "Search the code and copy your custom script file name.<br/>This is the alphanumeric code between <code>http://ps-us.amazon-adsystem.com/domains/</code> and <code>.js</code>.<br/>( e.g.<code>cybl0a-20_a5e1c142-fc0b-4b4c-abf8-27814868e9b8</code> , on <code>http://ps-us.amazon-adsystem.com/domains/cybl0a-20_a5e1c142-fc0b-4b4c-abf8-27814868e9b8.js</code> ) and paste in the second field below"
+msgstr "Procure no código e copie o nome de seu script customizado.<br/>é um código numérico entre <code>http://ps-us.amazon-adsystem.com/domains/</code> e <code>.js</code>.<br/>( e.g.<code>cybl0a-20_a5e1c142-fc0b-4b4c-abf8-27814868e9b8</code> , em <code>http://ps-us.amazon-adsystem.com/domains/cybl0a-20_a5e1c142-fc0b-4b4c-abf8-27814868e9b8.js</code> ) e cole no segundo campo, abaixo"
+
+#: ../aa-amazon-studio-loader.php:93
+msgid "Enter your Amazon Publisher tag"
+msgstr "Digite sua tag Amazon Publisher"
+
+#: ../aa-amazon-studio-loader.php:101
+msgid "Enter your Amazon Publisher file name"
+msgstr "Digite o nome de seu arquivo"
+
+#: ../aa-amazon-studio-loader.php:114
+msgid "If this plugin helped you, you may consider consider giving @2AcesConteudo a tweet, ranking it good on Wordpress Plugin Repository or linking us on your blog: <a href=\"http://www.2aces.com.br\"?www.2aces.com.br</a>"
+msgstr "Se este plugin te ajudou, pense na idéia de twitar sobre ele mencionando @2AcesConteudo, ou dar uma boa note para ele no repositório de plugins Wordpress ou colocando um link para nosso site em seu blog: <a href=\"http://www.2aces.com.br\"?www.2aces.com.br</a>"
+
+#: ../aa-amazon-studio-loader.php:115
+msgid "If we may give you a suggestion, you should try <a href=\"http://j.mp/GerencieWPFacil\" rel=\"nofollow\">ManageWP</a> to make your blog life easier.<br/>(full disclosure: if you sign up for a paid plan, we get a small commission.)"
+msgstr "Se aceita uma sugestão, você devia testar o <a href=\"http://j.mp/GerencieWPFacil\" rel=\"nofollow\">ManageWP</a> para fazer sua vida com blogs mais fácil/.<br/>(sendo transparentes: se você assinar um plano pago pelo link acima, nós ganhamos uma comissão pequena.)"
+
